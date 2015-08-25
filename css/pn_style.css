@@ -1,0 +1,36 @@
+#pn-table-main thead th{background: #cccccc; padding: 0px 15px 0px 5px; font-weight: bold;font-size: 10px; cursor: pointer; color: #333 !important;}
+#pn-table-main tbody td{color: #333 !important;}
+#pn-table-main  thead tr .headerSortUp {background: url(../images/asc.gif) no-repeat right center;}
+#pn-table-main  thead tr .headerSortDown { background: url(../images/desc.gif) no-repeat right center; }
+#pn-table-main tbody tr td{ padding: 0px 5px 0px 5px; font-size: 10px; }
+#pn-table-main tbody tr.odd td{ background: #F1F1F1; padding: 2px 15px 2px 5px; font-size: 10px;}
+.more-info-panel {background: #EEEEEE;border: 2px solid #555;height: auto; margin: 14px 0px -350px -1118px; padding: 5px 15px;position: relative;width: 1000px;z-index: 50;}
+#search_item {color: #888888;}
+#filter_by_type { color: #888888; width: 220px;}
+#filter_by_dates { color: #888888; width: 150px;}
+#plimus_run_path{display: inline-block; float: left; background: #FFFFFF; border: 1px solid #F1F1F1; width: auto; padding: 3px 10px; -moz-border-radius: 5px 5px 5px 5px; -webkit-border-radius:5px 5px 5px 5px; border-radius:5px 5px 5px 5px;}
+#small_size{font-size: 12px;}
+#template_exp{font-size: 14px; display: bolck; float: left; width: 100%; height: auto; margin: 5px 0px 5px;}
+
+h3#notification{margin-top: 40px;}
+i#note{font-size: 12px;}
+input#your_name{color: #6d6f71; font-size: 12px;padding: 2px 10px 5px 63px; background: #FFFFFF url(../images/your_name.png) no-repeat left center;}
+input#your_email{color: #6d6f71; width:410px;font-size: 12px;padding: 2px 10px 5px 63px; background: #FFFFFF url(../images/your_email.png) no-repeat left center;}
+input#tpl_subject_text{color: #6d6f71; width:771px;font-size: 12px;padding: 2px 10px 5px 45px; background: #FFFFFF url(../images/tpl_subject.png) no-repeat left center;}
+textarea#html_tmp{float: left; color: #6d6f71; font-size: 12px;padding: 23px 10px 5px; height: 510px; background: #FFFFFF url(../images/html_email_template.png) no-repeat 5px 5px;}
+textarea#email_tmp{display: inline-block; margin-top: 7px;float: left; color: #6d6f71; font-size: 12px; padding: 23px 10px 5px; background: #FFFFFF url(../images/not_email_template.png) no-repeat 5px 5px;}
+textarea#pn_email_tmp{display: block; margin-top: 7px;float: left; color: #6d6f71; font-size: 12px; padding: 23px 10px 5px; background: #FFFFFF url(../images/reg_email_template.png) no-repeat 5px 5px;}
+#template_form{display: inline-block; float: left;}
+#template_debug_wraper{background: transaprent; display: inline-block; float: left; margin: 20px 5px 5px; height: 470px; width: 400px;}
+#template_debug{background: #FFF; border: 1px solid #6d6f71; display: inline-block; float: left; margin: 2px 5px; height: 470px; width: 400px;}
+#refresh_preview{display: inline-block; float: left; margin: -20px 0px 10px 10px;}
+img#info_image{cursor: pointer; height: 16px; width: 16px; padding-top: 10px;}
+#test_info{text-align: center; padding: 5px;display: inline-block; width: 250px; height: 40px; border: 1px solid #6d6f71; background: #faf9f4; color: #6d6f71; position: absolute; margin: -30px 0px 0px; z-index: 30;
+-moz-border-radius-bottomright:5px;
+-moz-border-radius-bottomleft:5px;
+border-radius:5px 5px 5px 5px;
+-webkit-border-radius-bottomright:5px;
+-webkit-border-radius-bottomleft:5px;}
+#plimus-logo {display: inline-block; float: left; margin-right: 8px; margin-top: -1px;}
+#footer { display: none;}
+.green {color: green;}
